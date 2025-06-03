@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Gerson Jafet Flores Domínguez
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GersonFloresDominguez.repoName) [![GitHub followers](https://img.shields.io/github/followers/GersonFloresDominguez.svg?style=social&label=Follow)](https://github.com/GersonFloresDominguez?tab=followers)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GersonFloresDominguez.repoName) [![GitHub followers](https://img.shields.io/github/followers/GersonDmz.svg?style=social&label=Follow)](https://github.com/GersonDmz?tab=followers)
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -54,9 +54,9 @@ Soy Ingeniero en Sistemas Computacionales, apasionado por la tecnología, la inn
 ## 👀 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GersonFloresDominguez" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GersonFloresDominguez&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFloresDominguez&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GersonDmz" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GersonDmz&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonDmz&layout=compact" alt="Top Langs" />
 </p>
 
 ---
@@ -73,9 +73,9 @@ Soy Ingeniero en Sistemas Computacionales, apasionado por la tecnología, la inn
 
 ¡Hablemos!  
 [![Email](https://img.shields.io/badge/Email-yucastcmg@gmail.com-blue?style=flat-square&logo=gmail)](mailto:yucastcmg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-GersonFloresDominguez-black?style=flat-square&logo=github)](https://github.com/GersonFloresDominguez)
+[![GitHub](https://img.shields.io/badge/GitHub-GersonDmz-black?style=flat-square&logo=github)](https://github.com/GersonDmz)
 
 ---
 
-**Créditos:** [GersonFloresDominguez](https://github.com/GersonFloresDominguez)  
+**Créditos:** [GersonDmz](https://github.com/GersonDmz)  
 _Fecha de actualización: 2024_
